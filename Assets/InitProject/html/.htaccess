@@ -1,0 +1,10 @@
+RewriteEngine On
+
+SetEnvIf Request_URI "^(.*)" FRONTENDPORT=5000
+SetEnvIf Request_URI "^(.*)" BACKENDPORT=7000
+
+# CORS
+Header add Access-Control-Allow-Origin "*"
+
+RewriteRule ^api/(.*) http://172.17.0.1:%{ENV:BACKENDPORT}/api/$1 [P]
+RewriteRule ^(.*) http://172.17.0.1:%{ENV:FRONTENDPORT}/$1 [P]

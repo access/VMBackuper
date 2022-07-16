@@ -1,0 +1,271 @@
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.csproj.AssemblyReference.cache
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.AssemblyInfoInputs.cache
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.AssemblyInfo.cs
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.csproj.CoreCompileInputs.cache
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.MvcApplicationPartsAssemblyInfo.cs
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.MvcApplicationPartsAssemblyInfo.cache
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\appsettings.Development.json
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\appsettings.json
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.StaticWebAssets.xml
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.exe
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.deps.json
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.runtimeconfig.json
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.runtimeconfig.dev.json
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\ref\VMBackuper.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\VMBackuper.pdb
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Humanizer.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\MimeKit.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\MySqlConnector.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Pomelo.JsonObject.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\staticwebassets\VMBackuper.StaticWebAssets.Manifest.cache
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\staticwebassets\VMBackuper.StaticWebAssets.xml
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\scopedcss\bundle\VMBackuper.styles.css
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.RazorTargetAssemblyInfo.cache
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.csproj.CopyComplete
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\ref\VMBackuper.dll
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.pdb
+E:\NetCoreProjects\MoodsBackEnd - Copy\obj\Debug\net5.0\VMBackuper.genruntimeconfig.cache
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\appsettings.Development.json
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\appsettings.json
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.StaticWebAssets.xml
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.exe
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.deps.json
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.runtimeconfig.json
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.runtimeconfig.dev.json
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ref\VMBackuper.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\VMBackuper.pdb
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Humanizer.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\MimeKit.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\MySqlConnector.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Pomelo.JsonObject.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.AssemblyInfoInputs.cache
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.AssemblyInfo.cs
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.csproj.CoreCompileInputs.cache
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.MvcApplicationPartsAssemblyInfo.cs
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.MvcApplicationPartsAssemblyInfo.cache
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\staticwebassets\VMBackuper.StaticWebAssets.Manifest.cache
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\staticwebassets\VMBackuper.StaticWebAssets.xml
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\scopedcss\bundle\VMBackuper.styles.css
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.RazorTargetAssemblyInfo.cache
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.csproj.CopyComplete
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.dll
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\ref\VMBackuper.dll
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.pdb
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.genruntimeconfig.cache
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Renci.SshNet.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\SshNet.Security.Cryptography.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\NetCoreProjects\VMBackuper\bin\Debug\net5.0\AutoMapper.dll
+E:\NetCoreProjects\VMBackuper\obj\Debug\net5.0\VMBackuper.csproj.AssemblyReference.cache
